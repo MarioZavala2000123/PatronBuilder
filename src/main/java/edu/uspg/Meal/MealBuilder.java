@@ -1,8 +1,13 @@
-package edu.uspg.Packing;
+package edu.uspg.Meal;
 
+import edu.uspg.Burger.ChickenBurger;
+import edu.uspg.Burger.VegBurger;
+import edu.uspg.Drink.Coke;
+import edu.uspg.Drink.Pepsi;
 
 public class MealBuilder {
 
+	
 	   public Meal prepareVegMeal (){
 	      Meal meal = new Meal();
 	      meal.addItem(new VegBurger());

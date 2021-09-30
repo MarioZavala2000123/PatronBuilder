@@ -1,4 +1,8 @@
-package edu.uspg.Packing;
+package edu.uspg.Drink;
+
+import edu.uspg.Packing.Bottle;
+import edu.uspg.Packing.Item;
+import edu.uspg.Packing.Packing;
 
 public abstract class ColdDrink implements Item {
 

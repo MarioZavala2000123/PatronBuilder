@@ -1,4 +1,4 @@
-package edu.uspg.Packing;
+package edu.uspg.Drink;
 
 public class Coke extends ColdDrink {
 

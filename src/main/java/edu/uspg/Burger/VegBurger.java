@@ -1,4 +1,4 @@
-package edu.uspg.Packing;
+package edu.uspg.Burger;
 
 public class VegBurger extends Burger {
 
